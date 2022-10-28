@@ -1,0 +1,9 @@
+C:\Software\Godot\RPG\.mono\temp\bin\Debug\rpg.dll
+C:\Software\Godot\RPG\.mono\temp\bin\Debug\rpg.pdb
+C:\Software\Godot\RPG\.mono\temp\obj\Debug\rpg.csproj.AssemblyReference.cache
+C:\Software\Godot\RPG\.mono\temp\obj\Debug\rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software\Godot\RPG\.mono\temp\obj\Debug\rpg.AssemblyInfoInputs.cache
+C:\Software\Godot\RPG\.mono\temp\obj\Debug\rpg.AssemblyInfo.cs
+C:\Software\Godot\RPG\.mono\temp\obj\Debug\rpg.csproj.CoreCompileInputs.cache
+C:\Software\Godot\RPG\.mono\temp\obj\Debug\rpg.dll
+C:\Software\Godot\RPG\.mono\temp\obj\Debug\rpg.pdb

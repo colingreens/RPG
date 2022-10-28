@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8y5VGOJMdgRRYT4qwEXg6Q8rAPScMX6azDKOVzTmLsJuk4zdB62NegUuU8UIW6xFVo7Z6wAN7aq5adhoMI/lQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Software\\Godot\\RPG\\rpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\colin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\colin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
