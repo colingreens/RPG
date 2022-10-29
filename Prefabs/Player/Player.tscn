@@ -489,7 +489,7 @@ start_node = "Idle"
 [sub_resource type="CapsuleShape2D" id=36]
 height = 0.0
 
-[node name="Player" type="KinematicBody2D"]
+[node name="Player" type="KinematicBody2D" groups=["Player"]]
 script = ExtResource( 2 )
 
 [node name="Sprite" type="Sprite" parent="."]
@@ -499,7 +499,7 @@ vframes = 9
 frame = 1
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2( -1, 9.5 )
+position = Vector2( 0, 9 )
 shape = SubResource( 1 )
 
 [node name="anim" type="AnimationPlayer" parent="."]
@@ -529,6 +529,7 @@ parameters/Sword/blend_position = Vector2( -0.0518519, -0.25 )
 parameters/Walk/blend_position = Vector2( -0.00336701, -0.00862074 )
 
 [node name="Sword" type="Area2D" parent="."]
+position = Vector2( 0, 14 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Sword"]
 position = Vector2( -3, -16 )
